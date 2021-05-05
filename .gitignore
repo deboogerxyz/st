@@ -1,6 +1,7 @@
 .gitignore
 *.orig
 *.rej
+boxdraw.o
 st
 st.o
 x.o
